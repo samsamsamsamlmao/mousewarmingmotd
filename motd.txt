@@ -1,5 +1,4 @@
-Added Better Shadows
-Added Mouse Hole Spawn
-Added Attic
-Removed Multiple Glitches
-Working On Cel Shading
+Improved Shadow
+New Vip/Developer Lounge Area
+Cell Shading Work In Progress 
+Cosmetics Work In Progress
